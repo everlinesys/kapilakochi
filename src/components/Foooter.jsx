@@ -66,7 +66,7 @@ const Footer = () => {
                                 <div className="w-8 h-8 rounded-lg bg-yellow-50 flex items-center justify-center shrink-0">
                                     <MapPin size={16} className="text-yellow-600" />
                                 </div>
-                                <span>Kochi, Kerala, India <br /> <span className="text-xs opacity-70">Near Metro Pillar 450</span></span>
+                                <span>Kochi, Kerala, India <br /> <span className="text-xs opacity-70">Near Kaloor JN International Stadium</span></span>
                             </li>
                             <li className="flex gap-4 text-gray-500 text-sm">
                                 <div className="w-8 h-8 rounded-lg bg-yellow-50 flex items-center justify-center shrink-0">
