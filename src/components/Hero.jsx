@@ -1,6 +1,6 @@
 import React from 'react';
 import { Play, ArrowRight, Star } from 'lucide-react';
-
+import WhatsAppButton from './WhatsAppButton';
 const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center pt-40 bg-white overflow-hidden">

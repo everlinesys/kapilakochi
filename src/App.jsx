@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Footer from './components/Foooter'
 import Faculty from './components/Faculty'
 import Gallery from './components/Gallery'
+import WhatsAppButton from './components/WhatsAppButton'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Gallery />
       <Faculty />
       <Footer />
+      <WhatsAppButton />
     </div>
   )
 }
