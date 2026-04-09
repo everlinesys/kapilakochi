@@ -6,6 +6,8 @@ import Faculty from './components/Faculty'
 import Gallery from './components/Gallery'
 import WhatsAppButton from './components/WhatsAppButton'
 
+import DemoEndedOverlay from './components/DemoEnd'
+
 function App() {
 
   return (
@@ -16,6 +18,7 @@ function App() {
       <Faculty />
       <Footer />
       <WhatsAppButton />
+      <DemoEndedOverlay/>
     </div>
   )
 }
